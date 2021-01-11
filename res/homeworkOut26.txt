@@ -1,0 +1,29 @@
+Пример выходных данных
+
+Ivanov:
+envelope 5
+marker 3
+paper 17
+
+Petrov:
+envelope 20
+pens 5
+
+
+Пример выходных данных
+
+Ivanov:
+aaa 52
+bbb 3
+ccc 45
+
+Petrov:
+aaa 9
+bbb 7
+ddd 34
+
+Sidorov:
+aaa 356
+
+Ziborov:
+eee 234
